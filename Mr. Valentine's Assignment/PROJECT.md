@@ -1,7 +1,7 @@
 > Below are details of the Linux commands for my school project as instructed by Mr. Valentine: 
 # 1. I changed to the tests directory using absolute path. 
 ![Absolutepath](Absolutepath.jpg)
-# 2. I created a user and forced said user to change his/her password upon login. 
+# 2. I created a user and forced said user to change his password upon login. 
 ![Changepassword](Changepassword.jpg)
 # 3. I made use of the echo command to create File A in the misc directory, and it has the text ‘Hello A’ as its content. 
 ![FileA](FileA.jpg)
